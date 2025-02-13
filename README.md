@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning Machine Learning.<br>I'm looking to collaborate on Cross Platform App Development projects.<br>Ask me about: Flutter,React,React Native,Firebase.<br>I am presently seeking internship opportunities in Flutter and React Native App development.
+I'm currently learning Machine Learning.<br>I'm looking to collaborate on Web Development projects.<br>Ask me about: React,React Native,Flutter,Firebase.<br>I am presently seeking internship opportunities in React,React Native App development and Node backend development.
 
 
 # 💻 Tech Stack:
