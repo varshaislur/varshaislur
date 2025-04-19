@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning Machine Learning.<br>I'm looking to collaborate on Web Development projects.<br>Ask me about: React,React Native,Flutter,Firebase.<br>I am presently seeking internship opportunities in React and Next.js App development and Node backend development.<br>
+I'm currently learning Machine Learning.<br>I'm looking to collaborate on Web Development projects.<br>Ask me about: React,React Native,Node.js,Prisma. br>I am presently seeking internship opportunities in React and Next.js App development and Node backend development.<br>
 Portfolio:
 https://varsha-islur-portfolio.vercel.app
 
